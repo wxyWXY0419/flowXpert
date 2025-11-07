@@ -1,0 +1,4 @@
+SOURCE:   "AI"
+MODEL:    "qwen3-max"
+API_KEY:  "sk-864f108853984273aa33f5a4ff246d3a"
+API_BASE: "https://dashscope.aliyuncs.com/compatible-mode/v1"
